@@ -1,0 +1,41 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    height: 50vh;
+}
+input{
+    width:450px;
+    border-radius: 2%;
+    border: black solid 1px;
+    margin: 12px;
+    height: 36px;
+    margin-left: 0;
+}
+button{
+    cursor: pointer;
+    width: 15%;
+    margin-left: 0;
+    background-color: #5958B1;
+    color: WHITE;
+    gap: 8px;
+}
+
+#MK1{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    background-color: antiquewhite;
+    border: solid 1px;
+    margin: 2px;
+    width: 125px;
+}
+
+
